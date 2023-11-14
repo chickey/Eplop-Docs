@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinfo_eplop_co_uk=self.webpackChunkinfo_eplop_co_uk||[]).push([[3903],{7181:e=>{e.exports=JSON.parse('{"label":"electronics","permalink":"/blog/tags/electronics","allTagsPath":"/blog/tags","count":1}')}}]);

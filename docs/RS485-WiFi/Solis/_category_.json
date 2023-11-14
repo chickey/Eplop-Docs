@@ -1,0 +1,8 @@
+{
+  "label": "Solis",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "The RS485 to Wifi adaptor allows you to connect your Solis charge controller to your local WiFi network and have an at a glance view of the stats and also configure integration with HA and an influxDB."
+  }
+}
